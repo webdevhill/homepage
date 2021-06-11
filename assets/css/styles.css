@@ -1,0 +1,156 @@
+#hompage-h1 {
+  text-align: right;
+  padding-right: 40px;
+}
+
+#homepage-h2 {
+  text-align: right;
+  padding-top: 10px;
+  padding-right: 40px;
+}
+
+#contact {
+  margin-left: 20px;
+}
+
+#about {
+  padding: 40px;
+  background: url(../../assets/img/bibiandMeOrange.jpg) no-repeat;
+  background-size: cover;
+}
+
+#about .jumbotron {
+  border-radius: 20px;
+  padding: 40px;
+  background-color: rgba(255,255,255,0.75);
+  max-width: 800px;
+  /*margin: auto;*/
+  text-align: center;
+}
+
+@media (min-width: 576px) {
+  #about .jumbotron {
+    padding: 20px;
+    margin: 0PX;
+    /*text-align: left;*/
+  }
+}
+
+@media (min-width: 576px) {
+  #about {
+    padding: 40px;
+  }
+}
+
+p {
+  text-align: center;
+  padding: 20px;
+}
+
+h2, .h2 {
+  padding: 10px;
+}
+
+.text-dark {
+}
+
+#form {
+  padding-bottom: 20px;
+  /*margin-bottom: 20px;*/
+}
+
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+}
+
+#cards1 {
+  padding-top: 80px;
+}
+
+#whatIDo-h1 {
+  text-align: center;
+}
+
+#portfolio-img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+#card-p {
+}
+
+.col-md-4 {
+  padding-top: 20px;
+}
+
+.card-body {
+}
+
+#column-1 {
+}
+
+#portfolio {
+  padding-bottom: 20px;
+}
+
+#home {
+  padding-bottom: 20px;
+}
+
+#aboutMe {
+  padding-bottom: 20px;
+}
+
+#contact-h2 {
+  padding-bottom: 20px;
+}
+
+#contact-p {
+  margin-top: 10px;
+  padding: 0px;
+  padding-top: 20px;
+}
+
+#card-p {
+}
+
+#a-bit-about-me {
+  font-weight: 900;
+}
+
+@media (max-width: 576px) {
+  #contact-div {
+    margin-top: 100px;
+  }
+}
+
+@media (min-width: 301px) {
+  #contact-div {
+    /*margin-top: 60px;*/
+  }
+}
+
+@media (min-width: 576px) {
+  #recent-h1 {
+    /*margin-bottom: 73px;*/
+  }
+}
+
+#contact-h2 {
+  padding-bottom: 40px;
+}
+
+@media (min-width: 300px) {
+  #contact-p-3 {
+    margin-top: 60px;
+  }
+}
+
+#contact-me-h1 {
+  margin-top: 20px;
+  text-align: center;
+}
+
+#button {
+  border-radius: 40px;
+}
+
